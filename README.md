@@ -1,4 +1,5 @@
-    **New Jeans (뉴진스)**  
-  *'New Jeans' Official MV*  
-    * 0:23 ━━❚━━━━━━ 3:09 *
- *  ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻*
+<p align="center">
+  <strong>New Jeans (뉴진스)</strong>  
+  <em>'New Jeans' Official MV</em>  
+  <em>0:23 ━━❚━━━━━━ 3:09 ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻</em>
+</p>
