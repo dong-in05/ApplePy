@@ -7,7 +7,7 @@ class Dog(Animal):
         print("Dog barks.")
 
 # Dog 클래스의 인스턴스 생성
-dog = Dog()
+dog = Animal()
 
 # 상속받은 메서드 호출
 dog.speak()  # 출력: Dog barks.
