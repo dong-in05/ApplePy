@@ -16,7 +16,7 @@ class Calculator:
 
 # 정적 메서드 호출
 result = Calculator.add(3, 5)
-print("정적 메서드 호출 결과:", result)
+print("정적 메서드 호출` 결과:", result)
 
 
 
